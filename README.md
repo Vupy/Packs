@@ -3,6 +3,7 @@
 </p>
 
 [![Documentation Status](https://readthedocs.org/projects/packs/badge/?version=latest)](https://packs.readthedocs.io/en/latest/?badge=latest)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVupy%2FPacks.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FVupy%2FPacks?ref=badge_shield)
 
 # Packs
 
