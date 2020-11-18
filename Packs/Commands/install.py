@@ -294,7 +294,7 @@ class Installer:
         vs = []
 
         for i in vers:
-            if i['python_version'].startswith(self.__cpythonVersion):
+            if self.__cpythonVersion and i['python_version'].startswith(self.__cpythonVersion):
                 vs.append(i)
 
         if len(vs) == 0:
