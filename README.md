@@ -19,7 +19,7 @@ pip install packs
 
 Para instalar qualquer pacote você pode usar os seguintes comandos e flags:
 
-```
+```bash
 packs install <Nome do pacote>
 packs i <Nome do pacote>
 
@@ -30,7 +30,7 @@ packs i <Nome do pacote>
 
 Para remover qualquer pacote use os comando a seguir e as flags:
 
-```
+```bash
 packs remove <Nome do pacote>
 packs uninstall <Nome do pacote>
 packs rm <Nome do pacote>
@@ -41,7 +41,7 @@ packs rm <Nome do pacote>
 
 Para listar os pacotes instalados use estes comandos e as flags:
 
-```
+```bash
 packs ls
 packs list
 
@@ -52,7 +52,7 @@ packs list
 
 Para ver a lista de versões de um pacote disponíveis on/offline use este comando e as flags:
 
-```
+```bash
 packs check <Nome do pacote>
 
 --local ou -l para ver se o pacote esta instalado localmente e está atualizado
@@ -60,12 +60,12 @@ packs check <Nome do pacote>
 
 Para manipular o cache salvo use este comando e as flags:
 
-```
+```bash
 packs cache
 -c para limpar o cache
 -l para lista os pacotes em cache
 ```
 
 <strong>
-    <p align="center" style="text-align: center;">Vupy social networking© 2020</p>
+    <p align="center" style="text-align: center;">Vupy social networking© 2021</p>
 </strong>
